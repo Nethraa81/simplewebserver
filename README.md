@@ -37,8 +37,18 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 
+![Screenshot 2025-03-06 193013](https://github.com/user-attachments/assets/351b0454-d15f-4e79-b46f-507651f80a86)
+
+![Screenshot 2025-03-06 193036](https://github.com/user-attachments/assets/69495da6-8b4a-4d5f-bc00-9ea81a3dc4cc)
+
 
 ## OUTPUT:
+
+![Screenshot 2025-03-06 193119](https://github.com/user-attachments/assets/21ed976c-c2da-4ec7-98d8-7219268d574d)
+
+![Screenshot 2025-03-06 193143](https://github.com/user-attachments/assets/b73ebccb-1f56-4c90-be93-f77f5106eb3d)
+
+![Screenshot 2025-03-06 193153](https://github.com/user-attachments/assets/b2466292-3dde-47ef-a02f-48f78d65eba4)
 
 
 ## RESULT:
